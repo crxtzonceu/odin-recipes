@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://teacherspage.files.wordpress.com/2012/06/kk031.jpg");background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: rgb(23, 21, 21);
+  text-align: center;
+  font-family: 'Arvo', serif;
+}
+/* ================ */
+
+/* Header */
+
+.header {
+  font-family: 'Merriweather', serif;
+  margin-bottom: 100px;
+}
+
+/* ================ */
+
+
+.content {
+  background-color: rgb(99, 212, 99);
+  width: 80%;
+  margin: 50px auto;
+  padding: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  padding: 10px;
+}
