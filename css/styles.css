@@ -12,7 +12,10 @@ body {
 }
 /* ================ */
 
-
+img {
+  width: 300px;
+  height: 150px;
+}
 
 .header {
   font-family: 'Merriweather', serif;
