@@ -12,15 +12,16 @@ body {
 }
 /* ================ */
 
-/* Header */
+
 
 .header {
   font-family: 'Merriweather', serif;
   margin-bottom: 100px;
 }
 
-/* ================ */
 
+h2 {color: crimson;}
+h3 {color: rgb(23, 21, 21);}
 
 .content {
   background-color: rgb(99, 212, 99);
